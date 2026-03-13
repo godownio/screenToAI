@@ -38,7 +38,7 @@ python -m screen_to_ai
 
 - 全局快捷键：`Ctrl + Shift + O`（可用 `SCREEN_TO_AI_HOTKEY` 修改）
 - 翻页快捷键：
-  - 下翻：`Ctrl + Shift + L`（`SCREEN_TO_AI_PAGE_DOWN_HOTKEY`）或者`Ctrl + Shift + ↑`
+  - 下翻：`Ctrl + Shift + L`（`SCREEN_TO_AI_PAGE_DOWN_HOTKEY`）或者`Ctrl + Shift + ↑`
   - 上翻：`Ctrl + Shift + P`（`SCREEN_TO_AI_PAGE_UP_HOTKEY`）或者`Ctrl + Shift + ↓`
 - 触发后：截取主屏幕并 OCR，然后调用 DeepSeek，悬浮窗显示 DeepSeek 回答
 - 悬浮窗支持：
