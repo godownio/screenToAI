@@ -1,0 +1,4 @@
+.env
+.screen_to_ai/
+__pycache__/
+*.pyc
