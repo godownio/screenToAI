@@ -8,7 +8,7 @@
 
 效果：1分钟刷三道leetcode最难题，页面干净下只要页面能装下题目就是秒
 
-!\[screenToAI]\(https\://typora-202017030217.oss-cn-beijing.aliyuncs.com/typora/screenToAI.gif null)
+![screenToAI](https://typora-202017030217.oss-cn-beijing.aliyuncs.com/typora/screenToAI.gif)
 
 ## 快速开始（Windows）
 
